@@ -1450,3 +1450,140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.13-10.49.30:506][268]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.030
 [2022.05.13-10.49.30:514][268]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.05.13-10.49.30:514][268]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.05.13-10.54.38:677][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.05.13-10.56.54:166][515]MapCheck: New page: Map Check
+[2022.05.13-10.56.54:182][515]LightingResults: New page: Lighting Build - 13 mag 2022, 14:56:54
+[2022.05.13-10.56.54:189][515]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.13-10.56.54:191][515]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.13-10.56.54:192][515]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.13-10.56.54:192][515]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.13-10.56.54:193][515]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4000
+[2022.05.13-10.57.02:843][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.13-10.57.02:843][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.13-10.57.02:844][515]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.13-10.57.02:844][515]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.13-10.57.02:844][515]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.13-10.57.02:998][515]LogEditorBuildUtils: Build time 0:08
+[2022.05.13-10.57.03:058][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.05.13-10.58.06:090][455]Job is a success!
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport:          1: 6.3% covering 6.2% of volume
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport:          2: 92.1% covering 1.4% of volume
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.13-10.58.06:325][456]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 63 bricks 	 100.0% (Persistent Level)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2022.05.13-10.58.08:991][456]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2022.05.13-10.58.08:992][456]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2022.05.13-10.58.08:992][456]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2022.05.13-10.58.08:992][456]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2022.05.13-10.58.09:587][456]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 1024X1024)
+[2022.05.13-10.58.09:587][456]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 32X32)
+[2022.05.13-10.58.09:587][456]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X1024)
+[2022.05.13-10.58.09:587][456]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 1024X1024)
+[2022.05.13-10.58.09:587][456]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X1024)
+[2022.05.13-10.58.09:587][456]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (BGRA8, 1024X1024)
+[2022.05.13-10.58.09:587][456]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (BGRA8, 1024X1024)
+[2022.05.13-10.58.09:588][456]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 7 meshes in 7 LightmapResourceClusters (1.0 Meshes per cluster).
+[2022.05.13-10.58.09:606][456]Lightmass on LAPTOP-K0UAVVR3: 1:06 min total, 175 ms importing, 9 ms setup, 9.14 sec photons, 56.6 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 6:36 min total, 4:19 min processing.
+[2022.05.13-10.58.09:612][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.13-10.58.09:644][456]LogStaticLightingSystem: Illumination: 1:15 min (2.19 sec encoding lightmaps, 590 ms encoding shadowmaps)
+[2022.05.13-10.58.09:644][456]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2022.05.13-10.58.09:645][456]LogStaticLightingSystem: Shadowmap texture memory: 32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 7 textures
+[2022.05.13-10.58.09:900][456]DumpUnbuiltLightIteractions
+[2022.05.13-10.58.09:900][456]Lights with unbuilt interactions: 0
+[2022.05.13-10.58.09:900][456]
+[2022.05.13-10.58.09:900][456]Primitives with unbuilt interactions: 0
+[2022.05.13-10.58.10:023][456]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2022.05.13-10.58.10:065][457]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.13-10.58.10:066][457]MapCheck: New page: FirstPersonExampleMap - 13 mag 2022, 14:58:10
+[2022.05.13-10.58.10:066][457]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,943ms to complete.
+[2022.05.13-10.58.12:741][605]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.13-10.58.14:762][723]LogActorFactory: Actor Factory created SM_Chair
+[2022.05.13-10.58.36:357][985]MapCheck: New page: Map Check
+[2022.05.13-10.58.36:371][985]LightingResults: New page: Lighting Build - 13 mag 2022, 14:58:36
+[2022.05.13-10.58.36:379][985]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.13-10.58.36:383][985]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.13-10.58.36:383][985]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.13-10.58.36:384][985]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.13-10.58.36:384][985]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4000
+[2022.05.13-10.58.45:033][985]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.13-10.58.45:033][985]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.13-10.58.45:033][985]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.13-10.58.45:033][985]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.13-10.58.45:033][985]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.13-10.58.45:231][985]LogEditorBuildUtils: Build time 0:08
+[2022.05.13-10.58.45:247][985]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2022.05.13-10.58.45:286][985]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2022.05.13-10.58.45:322][985]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.05.13-10.58.45:322][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.05.13-10.58.46:524][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.05.13-10.59.34:529][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2022.05.13-10.59.34:634][199]LogSavePackage: Moving '../../../../../Users/Fabio/Desktop/Programmi/Unreal-Project/GameEngineProject/Saved/FirstPersonExampleMap_Auto3D7D783AE4EED7AF3A53374B16B45F29F.tmp' to '../../../../../Users/Fabio/Desktop/Programmi/Unreal-Project/GameEngineProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2022.05.13-10.59.34:647][199]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.148
+[2022.05.13-10.59.34:647][199]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.148
+[2022.05.13-10.59.48:983][931]Job is a success!
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport:          1: 6.2% covering 6.2% of volume
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport:          2: 92.2% covering 1.4% of volume
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.13-10.59.49:194][932]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 64 bricks 	 100.0% (Persistent Level)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 128X64)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2022.05.13-10.59.51:957][932]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2022.05.13-10.59.52:552][932]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 1024X1024)
+[2022.05.13-10.59.52:552][932]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (BGRA8, 64X64)
+[2022.05.13-10.59.52:552][932]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 32X32)
+[2022.05.13-10.59.52:552][932]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (BGRA8, 1024X1024)
+[2022.05.13-10.59.52:552][932]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (BGRA8, 1024X1024)
+[2022.05.13-10.59.52:552][932]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (BGRA8, 1024X1024)
+[2022.05.13-10.59.52:552][932]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (BGRA8, 1024X1024)
+[2022.05.13-10.59.52:552][932]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (BGRA8, 1024X1024)
+[2022.05.13-10.59.52:553][932]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 8 meshes in 8 LightmapResourceClusters (1.0 Meshes per cluster).
+[2022.05.13-10.59.52:568][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.05.13-10.59.52:604][932]Lightmass on LAPTOP-K0UAVVR3: 1:05 min total, 317 ms importing, 11 ms setup, 9.33 sec photons, 55.7 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 6:30 min total, 4:11 min processing.
+[2022.05.13-10.59.52:614][932]LogStaticLightingSystem: Illumination: 1:16 min (2.29 sec encoding lightmaps, 589 ms encoding shadowmaps)
+[2022.05.13-10.59.52:614][932]LogStaticLightingSystem: Lightmap texture memory:  32.1 MB (32.1 MB streaming, 0.0 MB non-streaming), 10 textures
+[2022.05.13-10.59.52:614][932]LogStaticLightingSystem: Shadowmap texture memory: 32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2022.05.13-10.59.53:090][932]DumpUnbuiltLightIteractions
+[2022.05.13-10.59.53:090][932]Lights with unbuilt interactions: 0
+[2022.05.13-10.59.53:090][932]
+[2022.05.13-10.59.53:090][932]Primitives with unbuilt interactions: 0
+[2022.05.13-10.59.53:196][932]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2022.05.13-10.59.53:231][933]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.13-10.59.53:231][933]MapCheck: New page: FirstPersonExampleMap - 13 mag 2022, 14:59:53
+[2022.05.13-10.59.53:233][933]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,379ms to complete.
+[2022.05.13-10.59.58:330][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.13-10.59.58:376][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.13-10.59.58:394][224]LogSavePackage: Moving '../../../../../Users/Fabio/Desktop/Programmi/Unreal-Project/GameEngineProject/Saved/FirstPersonExampleMap1A7679B74798EBD8E195F98BFE98C16F.tmp' to '../../../../../Users/Fabio/Desktop/Programmi/Unreal-Project/GameEngineProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.05.13-10.59.58:400][224]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.036
+[2022.05.13-10.59.59:071][224]LogSavePackage: Moving '../../../../../Users/Fabio/Desktop/Programmi/Unreal-Project/GameEngineProject/Saved/FirstPersonExampleMap_BuiltDataF6BD72AA4F8FA3714D3575A4F91F5667.tmp' to '../../../../../Users/Fabio/Desktop/Programmi/Unreal-Project/GameEngineProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.05.13-10.59.59:126][224]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.13-10.59.59:126][224]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.05.13-10.59.59:128][224]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
